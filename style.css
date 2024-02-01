@@ -141,7 +141,6 @@ h1{
 @media screen and (max-width: 660px){
   header{
     background-image: url(pexels-pixabay-159515.jpg);
-    padding:10px 10%;
   }
   .email{
     height: 40px;
@@ -185,4 +184,9 @@ h1{
   .container{
     margin-left:20px;
   }
+  button{
+    height:40px;
+    width:300px;
+  }
+  
 }
