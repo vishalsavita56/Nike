@@ -182,4 +182,7 @@ h1{
   height: 50px;
   width: 80px;
  }
+  .container{
+    margin-left:20px;
+  }
 }
